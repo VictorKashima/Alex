@@ -19,7 +19,7 @@ Soon update:
 
 Alex is very easy to use, For example:
 
-``"Alex, search by Google for (search term)".``
+``"Alex, search (search term)".``
 
 
 **Observation:** ⚠️
